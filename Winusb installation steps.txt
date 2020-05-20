@@ -1,0 +1,10 @@
+﻿
+To install Win usb follow the following steps:
+    • open the terminal or bash and type the following command to add the repisotry needed to install Winusb:
+“sudo add-apt-repository ppa:nilarimogard/webupd8”
+    • now updated:
+“sudo apt-get update”
+    • and finally download the program:
+“sudo apt-get install woeusb”
+
+Now you can make usb bootable especially Win10 OS.
