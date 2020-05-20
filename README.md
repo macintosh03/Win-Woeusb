@@ -12,3 +12,7 @@ Remember to be careful in choosing the correct file system (FAT or NTFS).
 Just select your stick down below. That's all now you have to flash the flash drive and wait for it to complete.
 (I remind you that the peculiarity of this program is what makes USB bootable for Windows.
 
+P.S. I used Linux Mint in this but it should be fine on all platforms (GNU / LINUX)
+
+
+
