@@ -7,6 +7,7 @@ Once installed and once downloaded the IOS you want to install put the USB you w
 
 ![Alt tag](https://github.com/macintosh03/Win-Woeusb/blob/master/Schermata%20del%202020-05-20%2013-55-20.png)
 Remember to be careful in choosing the correct file system (FAT or NTFS).
+
 Just select your stick down below. That's all now you have to flash the flash drive and wait for it to complete.
 (I remind you that the peculiarity of this program is what makes USB bootable for Windows.
 
